@@ -1,0 +1,212 @@
+[
+  {
+    "storyTitle": "The Lion and the Clever Rabbit",
+    "questions": [
+      {
+        "question": "Who was causing trouble in the forest?",
+        "options": ["The rabbit", "The lion", "The other animals", "No one"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did the animals decide to do about the lion?",
+        "options": ["Run away", "Send a clever rabbit to stop him", "Fight the lion", "Hide from the lion"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How did the rabbit trick the lion?",
+        "options": ["By hiding in a hole", "By showing the lion his reflection in a well", "By running very fast", "By calling other animals"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What happened to the lion?",
+        "options": ["He became friends with the rabbit", "He left the forest", "He drowned in the well", "He found another forest"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the main lesson from this story?",
+        "options": ["Lions are dangerous", "Intelligence can overcome strength", "Rabbits are smart", "Forests are dangerous places"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "storyTitle": "The Tortoise and the Geese",
+    "questions": [
+      {
+        "question": "What did the tortoise wish for?",
+        "options": ["To swim faster", "To fly like the geese", "To run faster", "To hide better"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How did the geese help the tortoise?",
+        "options": ["They taught him to fly", "They carried him on a stick", "They gave him wings", "They pushed him"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did the geese tell the tortoise he must do?",
+        "options": ["Sing loudly", "Stay silent", "Look around", "Close his eyes"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Why did the tortoise fall?",
+        "options": ["The geese dropped him", "He opened his mouth to speak when people laughed", "He was too heavy", "The stick broke"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What lesson did the tortoise learn?",
+        "options": ["Flying is fun", "Think before you speak", "Geese are not helpful", "Tortoises can't fly"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "storyTitle": "The Monkey and the Crocodile",
+    "questions": [
+      {
+        "question": "What did the crocodile want from the monkey?",
+        "options": ["To be friends", "The monkey's heart", "Some fruits", "To play together"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Where did the crocodile take the monkey?",
+        "options": ["To another tree", "Across the river", "To a cave", "To the forest"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did the monkey say about his heart?",
+        "options": ["It was with his family", "He had left it on the tree", "It was very small", "He didn't have one"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did the monkey do when he got back to the tree?",
+        "options": ["He gave his heart to the crocodile", "He jumped to safety", "He thanked the crocodile", "He cried"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does this story teach us?",
+        "options": ["Monkeys are clever animals", "Quick thinking saves the day", "Crocodiles are dangerous", "Never trust anyone"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "storyTitle": "The Blue Jackal",
+    "questions": [
+      {
+        "question": "How did the jackal turn blue?",
+        "options": ["He was born blue", "He painted himself", "He fell into a pot of blue paint", "Magic changed him"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did the other animals think when they saw the blue jackal?",
+        "options": ["He was a regular jackal", "He was a magical creature", "He was a dog", "He was scary"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did the animals do?",
+        "options": ["They ran away", "They made him their king", "They ignored him", "They fought him"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What happened when the jackal howled?",
+        "options": ["Animals cheered", "Everyone realized he was just a jackal", "Nothing happened", "He became more magical"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the moral of this story?",
+        "options": ["Blue is a nice color", "Dishonesty is eventually exposed", "Animals are smart", "Jackals are tricky"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "storyTitle": "The Fox and the Grapes",
+    "questions": [
+      {
+        "question": "What was the fox looking for?",
+        "options": ["Some apples", "Something to eat", "A bunch of grapes", "Other animals"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Where were the grapes?",
+        "options": ["On the ground", "On a low branch", "Hanging high up", "In a basket"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Could the fox reach the grapes?",
+        "options": ["Yes, easily", "No, he tried hard but couldn't reach them", "He didn't try", "Someone helped him"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did the fox say when he couldn't get the grapes?",
+        "options": ["I'll try again later", "Those grapes are sour anyway", "I need help", "The grapes look delicious"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does this story teach us?",
+        "options": ["Grapes are always sour", "It's easy to despise what you cannot have", "Foxes are clever", "Never give up"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "storyTitle": "The Brahmin and the Crooks",
+    "questions": [
+      {
+        "question": "What was the Brahmin carrying?",
+        "options": ["A bag of food", "A goat as a gift", "A book", "Some clothes"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How many crooks tried to trick the Brahmin?",
+        "options": ["One", "Two", "Three", "Four"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What did the crooks say the goat was?",
+        "options": ["A cow", "A dog", "A cat", "A sheep"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How did the Brahmin escape from the crooks?",
+        "options": ["He ran away", "He fooled the crooks back and escaped", "He called for help", "He gave them the goat"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the moral of this story?",
+        "options": ["Crooks are bad people", "Cleverness and caution protect you from harm", "Don't trust anyone", "Always carry a goat"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  {
+    "storyTitle": "The Stork and the Crab",
+    "questions": [
+      {
+        "question": "What did the stork pretend to do?",
+        "options": ["Help the fish by carrying them to a new pond", "Eat the fish", "Play with the fish", "Ignore the fish"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What was the stork really doing?",
+        "options": ["Helping the fish", "Eating them instead", "Playing with them", "Teaching them to swim"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who caught the stork?",
+        "options": ["The fish", "The crab", "Other birds", "The pond keeper"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What did the crab do to the stork?",
+        "options": ["He trusted the stork", "He caught the stork's neck and killed him", "He ran away", "He asked for help"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What does this story teach us?",
+        "options": ["Storks are dangerous", "Courage and intelligence can help the weak overcome the strong", "Crabs are brave", "Never trust birds"],
+        "correctAnswer": 1
+      }
+    ]
+  }
+]

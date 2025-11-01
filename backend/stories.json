@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Lion and the Clever Rabbit",
+    "story": "A lion terrorized the animals in the forest. To stop him, the animals sent a clever rabbit. The rabbit tricked the lion into jumping into a well by showing him his reflection. The lion drowned, and the forest was peaceful again.",
+    "moral": "Intelligence can overcome strength.",
+    "image": "images/lion_rabbit.jpeg"
+  },
+  {
+    "title": "The Tortoise and the Geese",
+    "story": "A tortoise wanted to fly like the geese. The geese agreed to help but told him to stay silent while they carried him on a stick. When people below laughed, the tortoise opened his mouth to speak and fell. He learned to stay calm and think before speaking.",
+    "moral": "Think before you speak.",
+    "image": "images/tortoise_geese.jpeg"
+  },
+  {
+    "title": "The Monkey and the Crocodile",
+    "story": "A crocodile wanted to eat a monkey’s heart. The monkey realized the danger and tricked the crocodile by saying he had left his heart on the tree. When the crocodile took him back, the monkey quickly jumped to safety.",
+    "moral": "Quick thinking saves the day.",
+    "image": "images/monkey_crocodile.jpeg"
+  },
+  {
+    "title": "The Blue Jackal",
+    "story": "A jackal fell into a pot of blue paint. The animals thought he was a magical creature and made him their king. But one day, he howled like a jackal, and everyone realized the truth. They chased him away.",
+    "moral": "Dishonesty is eventually exposed.",
+    "image": "images/blue_jackal.jpeg"
+  },
+  {
+    "title": "The Fox and the Grapes",
+    "story": "A hungry fox saw a bunch of grapes hanging high. He tried hard but couldn’t reach them. Finally, he walked away saying, ‘Those grapes are sour anyway.’",
+    "moral": "It’s easy to despise what you cannot have.",
+    "image": "images/fox_grapes.jpeg"
+  },
+  {
+    "title": "The Brahmin and the Crooks",
+    "story": "A wise Brahmin was carrying a goat as a gift. Three crooks tried to trick him into thinking it was a dog. The Brahmin, realizing their plan, fooled them back and escaped safely.",
+    "moral": "Cleverness and caution protect you from harm.",
+    "image": "images/brahmin_cooks.jpeg"
+  },
+  {
+    "title": "The Stork and the Crab",
+    "story": "A greedy stork pretended to help the fish by carrying them to a new pond, but he ate them instead. When he tried the same trick on a crab, the crab caught his neck and killed him, saving the others.",
+    "moral": "Courage and intelligence can help the weak overcome the strong.",
+    "image": "images/crane_crab.jpeg"
+  }
+]
