@@ -109,7 +109,6 @@ Therapists gain a clear, data-driven view of every child’s progress.
 - **AI Engine:** Python (for adaptive feedback logic & phoneme analysis)
 
 ---
----
 
 ## 🏆 Why It Stands Out (Hackathon Pitch Points)
 
@@ -128,8 +127,6 @@ so that every child, regardless of how they read or write,
 can feel seen, supported, and celebrated.
 
 > **Joyverse** — Because every mind deserves its own rhythm.
-
----
 
 ---
 
