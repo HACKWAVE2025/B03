@@ -131,11 +131,6 @@ can feel seen, supported, and celebrated.
 
 ---
 
-## 👩‍💻 Team Joyverse
-- Shreya Reddy – Full Stack Developer & Designer  
-- [Your Teammates, if any]  
-- Mentors: [Therapist/Advisor Names if applicable]
-
 ---
 
 ## 🧾 License
